@@ -1,0 +1,17 @@
+{
+    "name": "phpcron/telegram-bot",
+    "description": "PHP Onyxwerewolf script",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "phpcron\\CronBot\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Amin Azmoodeh"
+        }
+    ],
+    "require": {}
+}
